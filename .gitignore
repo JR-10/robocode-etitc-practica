@@ -1,0 +1,14 @@
+.metadata
+ucdetector_reports
+*.class
+.recommenders
+.sonarlint
+RemoteSystemsTempFiles
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+**/build/
+.sandbox
+.idea/uiDesigner.xml
+robocode.tests/screenshots/
